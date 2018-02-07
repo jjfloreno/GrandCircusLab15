@@ -1,0 +1,7 @@
+C:\Users\jjflo\source\repos\Lab15_Countries\Lab15_Countries\bin\Debug\Lab15_Countries.exe.config
+C:\Users\jjflo\source\repos\Lab15_Countries\Lab15_Countries\bin\Debug\Lab15_Countries.exe
+C:\Users\jjflo\source\repos\Lab15_Countries\Lab15_Countries\bin\Debug\Lab15_Countries.pdb
+C:\Users\jjflo\source\repos\Lab15_Countries\Lab15_Countries\obj\Debug\Lab15_Countries.csprojResolveAssemblyReference.cache
+C:\Users\jjflo\source\repos\Lab15_Countries\Lab15_Countries\obj\Debug\Lab15_Countries.csproj.CoreCompileInputs.cache
+C:\Users\jjflo\source\repos\Lab15_Countries\Lab15_Countries\obj\Debug\Lab15_Countries.exe
+C:\Users\jjflo\source\repos\Lab15_Countries\Lab15_Countries\obj\Debug\Lab15_Countries.pdb
